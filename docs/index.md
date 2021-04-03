@@ -16,7 +16,7 @@ Data Science Resume
 
 ## Education
 
-`Expected 2024`
+`Expected 2024` 
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Data Science Major
@@ -24,20 +24,20 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `December 2020`
 __Dixie State University__, St George, UT
 
-- AS degree in General Studies
+- Associates degree in General Studies <!--- Use the full "Associates" rather than "AS" makes it seem more professional--->
 
 
 
-## Service and Work History
+## Web Development<!---<<<change this to be the type of job you want---> Work History
 
 `August 2020-current`
-##### BYU-I Enrollment Management Team
+__BYU-I Enrollment Management Team__ <!--- Changing the style from #### to being in __ __ should help fix some of the layout issues--->
 
 - Update and create new designs for the university websites and various presentations.
 - Research and build interactive material that is used by students and faculty.
 
 `March - July 2020`
-##### Wentworth at the Meadows Assisted Living Center Door Manager
+__Wentworth at the Meadows Assisted Living Center Door Manager__ <!--- same as line 34 --->
 
 - Signed for incoming packages
 - Screened and filled out a questionaire for anyone entering the building
@@ -45,6 +45,6 @@ __Dixie State University__, St George, UT
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2021 --> <!--- Change last edited date to be correct--->
 
 
